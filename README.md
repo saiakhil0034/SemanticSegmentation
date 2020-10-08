@@ -3,8 +3,6 @@ Deep Learning Model for performing semantic segmentation on cityscapes dataset
 
 ## Installation:
 ```bash
-ssh ucsd_username@dsmlp-login.ucsd.edu
-launch-scipy-ml-gpu.sh
 pip install virtualenv
 
 git clone https://github.com/kj141/semantic-segmentation.git
